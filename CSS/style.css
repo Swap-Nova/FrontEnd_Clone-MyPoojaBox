@@ -1,0 +1,164 @@
+/* Images Section */
+
+.title-image{
+     max-width: 13%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     position: relative;
+     right:22px;
+}
+
+.basic-image{
+     border-radius: 50%;
+}
+
+.next-launch{
+     position: relative;
+     left:140px;
+}
+
+.lamps{
+     position: relative;
+     top:40px;
+     left:140px;
+}
+
+/* Navigation Bar Section */
+
+.nav-link{
+     color:#fff;
+}
+
+.navbar{
+     padding:0px 100px auto 200px;
+     position: relative;
+     top:15px;
+}
+
+/* Container Section */
+#top-container{
+     padding: 0px 0px 20px 0px;
+}
+
+#middle-container{
+     padding: 0px 0px 20px 0px;
+}
+
+#bottom-container{
+     padding:30px 0px auto 0px;
+}
+
+/* Text Styling */
+.log-in{
+     text-decoration: underline;
+     position: relative;
+     top:15px;
+     left:100px;
+}
+
+.register{
+     text-decoration: underline;
+     position: relative;
+     bottom:52px;
+     left:190px;
+}
+
+.or{
+     position: relative;
+     left:158px;
+     bottom:10px;
+}
+
+.hi{
+     position: relative;
+     left:100px;
+     top:22px;
+}
+
+.code{
+     background-color: #F56D91;
+     padding-bottom: 15px;
+     font-family: 'Frank Ruhl Libre', serif;
+}
+
+p{
+     line-height: 2;
+     font-size: 18px;
+     font-family: 'Tinos', serif;
+}
+
+/* Div class */
+.search-cart{
+     position: absolute;
+     right:50px;
+}
+
+.log-in-register{
+     position: absolute;
+     top:65px;
+     line-height:1;
+}
+
+.fa-solid{
+     position: relative;
+     top: 5px;
+     right:10px;
+}
+
+.fa-brands{
+     position: relative;
+     top: 5px;
+     right:10px;
+}
+
+.container-fluid{
+     padding: 3% 5%;
+     background-color:#F56D91;
+     position: absolute;
+     top:2200px;
+}
+
+.container-fluid-primary{
+     padding: 20px 0px 50px 0;
+     background-color:#fff;
+     position: absolute;
+     top:2350px;
+
+}
+
+.white-section{
+     background-color: #fff;
+     text-align: center;
+}
+
+
+/* Card Images */
+
+
+.card{
+     max-width: 91vw;
+     margin: 37px auto;
+}
+
+.card-item{
+     display: inline-flex;
+     justify-content: center;
+     flex-direction: column;
+     margin: 0 12px;
+}
+
+.cards{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     overflow: hidden;
+}
+ 
+.text-center{
+     text-align: center;
+}
+ 
+.my-1{
+     margin:5px 0;
+}

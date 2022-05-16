@@ -1,0 +1,22 @@
+/* Tablet Layout */
+@media(max-width:768px){
+    .card{
+        position: relative;
+        left:250px;
+    }
+
+    #bottom-container{
+        padding-left: 350px;
+    }
+
+    .code{
+        padding-left: 600px;
+    }
+}
+
+/* Mobile Layout */
+@media(max-width:425px){
+    .code{
+        padding-left: 1000px;
+    }
+}
